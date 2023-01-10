@@ -1,1 +1,2 @@
 # Web-Design-Challenge
+Web design challenge finally submitted. Though tedious, I have learned to like web design and may pursue it seriously. The most difficult part was converting the csv to html. Feedback is appreciated! Thanks!
